@@ -1,0 +1,33 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+    #header-top-left ul{
+        float: none;
+    }
+    #header-top-right ul{
+        float: none;
+    }
+    .logo {
+        text-align: center;
+    }
+    .header-mid-text{
+        text-align: center;
+    }
+    .top-menu{
+        padding: 5px 0;
+    }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 479px) {
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 360px) {
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 319px) {
+}
